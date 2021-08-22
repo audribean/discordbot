@@ -12,10 +12,8 @@ const prefix = "!";
 // find json solution for storing roles
 
 // put these in an env
-const chanID = "784928448811892777";
-const guildID = "784928448367427615";
-//const chanID = process.env.GENERAL_CHANNEL_ID
-//const guildID = process.env.GUILD_ID
+const chanID = process.env.CHAN_ID;
+const guildID = process.env.GUILD_ID;
 //console.log("Chan ID: " + chanID + "\nGuild ID: " + guildID)
 //console.log(process.env)
 const roles = {

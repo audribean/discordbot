@@ -12,6 +12,8 @@
     "discord.js": "^12.5.1",
     "discord.js-commando": "github:discordjs/commando",
     "dotenv": "^8.2.0",
-    "dotenv-flow": "^3.2.0"
+    "dotenv-flow": "^3.2.0",
+    "CHAN_ID": "784928448811892777",
+    "GUILD_ID":"784928448367427615"
   }
 }
